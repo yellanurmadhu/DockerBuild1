@@ -1,4 +1,0 @@
-#THIS IS DOCKER FILE...!!!!!!!
-FROM nginx
-MAINTAINER yellanurmadhu@gmail.com 
-COPY index.html /usr/share/nginx/html/

@@ -1,4 +1,4 @@
 #THIS IS DOCKER FILE...!!!!!!!
-From nginx:latest
+FROM nginx:latest
 MAINTAINER yellanurmadhu@gmail.com 
 COPY index.html /usr/share/nginx/html/
